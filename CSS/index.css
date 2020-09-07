@@ -45,9 +45,9 @@ h3{
 /*child class*/
 .top-cloud{
   height:80px;
-  width: 160px;
+  width: 200px;
   position: absolute;
-  left:200px;
+  left:160px;
   top:330px;
 }
 /*child class*/
