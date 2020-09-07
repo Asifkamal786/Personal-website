@@ -108,6 +108,9 @@ button{
   font-size: 15px;
   font-weight:bold;
 }
+button:hover{
+  background-color:#03c6fc;
+}
 .bottom-container{
   background-color: #66BFBF;
   padding:40px;
